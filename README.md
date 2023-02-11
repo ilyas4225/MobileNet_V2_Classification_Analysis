@@ -2,12 +2,12 @@
 
  The steps to run inference with a pre-trained MobileNetV2 model on the differenct dataset are as
  
-1- Import necessary libraries
-2- Load the pre-trained MobileNetV2 model
-3- Load the CIFAR-10 dataset and apply transformations
-4- Run inference on a sample image from the CIFAR-10 dataset
-5- Get the predicted class
-6 - Print the predicted class
+# 1- Import necessary libraries
+# 2- Load the pre-trained MobileNetV2 model
+# 3- Load the CIFAR-10 dataset and apply transformations
+# 4- Run inference on a sample image from the CIFAR-10 dataset
+# 5- Get the predicted class
+# 6 - Print the predicted class
 
 # Results
 
