@@ -1,7 +1,7 @@
 # MobileNet_V2_Classification_Analysis
 
 
-#Requirements
+# Requirements
 
 Python >= 3.7.x, PyTorch >= 1.13.0, torchvision.__version= 0.14
 
