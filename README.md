@@ -16,3 +16,5 @@ Python >= 3.7.x, PyTorch >= 1.13.0, torchvision.__version= 0.14
 | MobileNet_V2   | DTD           | 47            | 224x224	 | 63	            |7	                  |3290 	        |74%      |
 | MobileNet_V2   | Food101	     |101	           | 224x224	 | 73629	        |8181	                |81807	        |66.76%   |
 | MobileNet_V2   | STL_10	       |10             | 96x96     | 450            |50 	                |5000	          |87.2%    |
+| MobileNet_V2   | Flower102	   |102            | 224x224   | 6552           |818 	                |7370	          |95.52%   |
+| MobileNet_V2   | Cars	         |196            | 224x224   | 8144           |8044 	              |16185	        |52.0%    |
