@@ -10,6 +10,7 @@ Python >= 3.7.x, PyTorch >= 1.13.0, torchvision.__version= 0.14
 | Model_name  | Dataset |Classes|  Res. |Trainig| Val. | Total | Accuracy|
 |             |         |       |       |Sample |Sample|dataset| Accuracy|
 | ------------|---------| ----- |-------|-------|------|-------|---------|
+
 | MobileNet_V2|CINIC 10 | 10    |32X32  | 9000  |9000  | 27000 | 47%     |
 | MobileNet_V2|Cifar10  | 10    |32X32  | 5000  |1000  | 60000 | 58.36%  |
 | MobileNet_V2|Cifar100 | 100   |32X32  | 400	  |1000	 | 60000 |33.11%   |
